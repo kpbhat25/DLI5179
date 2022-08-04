@@ -1,3 +1,2 @@
 # DLI5179
-## This is the Deep Learning for images course in IITM 
-*Dr.Kaushik Mitra 
+## This is the Deep Learning for images course in IITM
