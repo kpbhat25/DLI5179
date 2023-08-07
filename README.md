@@ -12,4 +12,5 @@ Assignments are as follows
 resources: 
 * [UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html)
 * [Andrew Ng Deep Learning Tutorials](https://www.coursera.org/specializations/deep-learning)
+* [Code for the Coursera course and notes](https://github.com/amanchadha/coursera-deep-learning-specialization).
 * [Deep Learning tutorials for beginners](https://github.com/L1aoXingyu/pytorch-beginner)
